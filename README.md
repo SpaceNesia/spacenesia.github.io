@@ -1,4 +1,4 @@
-## Welcome to Spacenesia CDN
+## SpaceNesia CDN
 
 SpaceNesia - Adalah Blog Yang Membahas Seputar Informasi Seputar Luar Angkasa dan Astronomi Lainnya
 
